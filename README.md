@@ -23,8 +23,8 @@ UIKit, Kingfisher, ProgressHUD, URLSession.
 ## Запуск
 
 ```bash
-git clone https://github.com/dpogonia/FakeNFT-Yandex.git
-cd FakeNFT-Yandex
+git clone https://github.com/dpogonia/FakeNFT-YANDEX.git
+cd FakeNFT-YANDEX
 open FakeNFT.xcodeproj
 ```
 
